@@ -1,6 +1,7 @@
 # UnlimitedPrecisionCalculator
 An unlimited precision calculator that can perform basic math operations on very large numbers  
 The calculator uses Reversed Polish Notation (RPN) and operates on a stack.  
+Numbers used in this calculator are in Hex format  
 
 The operations to be supported by your calculator are:  
 ‘q’ – quit  
